@@ -1,2 +1,2 @@
-# Programa-o-com-Arquivos
+# Programa-com-Arquivos
 Trabalhos que desenvolvi durante a disciplina de programação de arquivos.
